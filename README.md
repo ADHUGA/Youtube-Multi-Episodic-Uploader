@@ -15,8 +15,15 @@ The credentials can also be found at the same place. Under credentials you can c
   Once that is done download the json and input the file location download of that file as a string (ie. C:\\Users\\yourname\\....\(json file))
   
 IMPORTANT NOTES WHEN USING THIS PROGRAM:
-  Your videos titles need to use the format of "Title #(number here)". The title needs a # and the thumbnails folder needs the number corresponding in the title of #.jpg
-  Also convert your time appropriately and try not to upload too close to the current time.
+  
+
+Your videos titles need to use the format of "Title #(number here)". 
+
+The title needs a # and the thumbnails folder needs the number corresponding in the title of #.jpg
+
+Also convert your time appropriately and try not to upload too close to the current time.
+
+Lastly, make sure your video is not too long (around 10-15 minutes is good).
 
 
 
